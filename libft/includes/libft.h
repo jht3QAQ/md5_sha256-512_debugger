@@ -43,8 +43,8 @@ struct	s_tail
 	t_tail	*next;
 };
 
-va_list	g_args;
-int		g_len;
+extern va_list	g_args;
+extern int		g_len;
 
 struct	s_format
 {

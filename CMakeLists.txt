@@ -14,6 +14,7 @@ add_executable(ft_ssl
         includes/digest.h
         includes/ssl.h
         libft/includes/libft.h
+        libft/srcs/libft.c
         libft/srcs/ft_atoi.c
         libft/srcs/ft_bzero.c
         libft/srcs/ft_char_to_str.c
